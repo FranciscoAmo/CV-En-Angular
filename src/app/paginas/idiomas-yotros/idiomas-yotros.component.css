@@ -1,0 +1,22 @@
+@media(min-width:760px) {
+    .colocacion_principal {
+        margin-left: 28%;
+        padding-right: 35%;
+    }
+}
+
+@media(max-width:760px) {
+    .colocacion_principal {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+.fijar {
+    width: 8rem;
+    /* Ancho fijo de la primera columna */
+}
+
+.scroll {
+    overflow-x: hidden;
+}

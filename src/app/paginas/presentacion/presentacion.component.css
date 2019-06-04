@@ -1,0 +1,23 @@
+@media(min-width:760px) {
+    .colocacion_principal {
+        margin-left: 28%;
+        margin-right: 20%;
+        text-align: justify;
+    }
+}
+
+@media(max-width:760px) {
+    .colocacion_principal {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+.color_fondo {
+    background-color: azure
+}
+
+.color_fondo h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}

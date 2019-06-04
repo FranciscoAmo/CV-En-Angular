@@ -1,0 +1,16 @@
+<div class="scroll">
+    <div class="container colocacion_principal">
+        <div class="row" *ngFor="let barra of skills">
+
+            <div class="progress">
+                <span class="progress-type">	
+                <span class="label label-large label-black arrowed-right">{{barra.nombre}}
+                </span>
+                </span>
+                <div class="progress-bar  progress-bar-striped  active" [ngClass]="(barra.color)" role="progressbar" aria-valuemin="0" aria-valuemax="100" [style.width]="(barra.valor)+'%'">
+                </div>
+                <span class="progress-completed">{{barra.valor}}%
+            </span>
+            </div>
+        </div>
+    </div>

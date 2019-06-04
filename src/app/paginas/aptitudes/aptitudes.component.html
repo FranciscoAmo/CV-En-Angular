@@ -1,0 +1,18 @@
+<div class="scroll">
+    <div class="container colocacion_principal">
+        <div class="row" *ngFor="let barra of aptitudes">
+            <div class="col-md-3 col-sm-6 col-md-12">
+                <div class="progress" [ngClass]="(barra.color)">
+                    <span class="progress-left">
+                    <span class="progress-bar" ></span>
+                    </span>
+                    <span class="progress-right">
+                    <span class="progress-bar"></span>
+                    </span>
+                    <div class="progress-value">{{barra.valor}}% </div>
+                </div>
+            </div>
+            <span class="label label-info tamaño">{{barra.nombre}}</span>
+        </div>
+    </div>
+</div>

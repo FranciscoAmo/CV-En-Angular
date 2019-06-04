@@ -1,0 +1,13 @@
+<div class="scroll">
+    <div class="container colocacion_principal" style="padding-top: 1em;" *ngFor="let datosExperiencia of Experiencia">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title"> {{datosExperiencia.posicion}}</h3>
+            </div>
+            <div class="panel-body">
+                <p class="lead">{{datosExperiencia.compania}}</p>
+                <p>{{datosExperiencia.rango}}</p>
+                <p>{{datosExperiencia.descripcion}}</p>
+            </div>
+        </div>
+    </div>

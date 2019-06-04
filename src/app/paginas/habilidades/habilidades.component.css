@@ -1,0 +1,180 @@
+@media(min-width:760px) {
+    .colocacion_principal {
+        margin-left: 28%;
+        padding-right: 35%;
+    }
+}
+
+@media(max-width:760px) {
+    .colocacion_principal {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+.scroll {
+    overflow-x: hidden;
+}
+
+.label {
+    border-radius: 0px;
+    text-shadow: none;
+    font-size: 50px;
+    font-weight: normal;
+    padding: 5px 7px 5px;
+    background-color: black!important;
+    z-index: 1;
+}
+
+.label[class*="span"][class*="arrow"] {
+    min-height: 0px;
+}
+
+.label.arrowed-right,
+.label.arrowed-in-right {
+    position: relative;
+    margin-right: 0px
+}
+
+.label-large {
+    font-size: 13px;
+    padding: 4px 12px 4px
+}
+
+.label-large.arrowed:before,
+.label-large.arrowed-in:before {
+    left: -16px;
+    border-width: 11px 8px
+}
+
+.label-large.arrowed-right,
+.label-large.arrowed-in-right {
+    margin-right: 11px
+}
+
+.progress {
+    position: relative;
+    height: 30px;
+    z-index: 1;
+}
+
+.progress>.progress-type {
+    position: absolute;
+    left: -15px;
+    font-weight: 1000;
+    padding: 3px 30px 2px 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress>.progress-completed {
+    position: absolute;
+    right: 0px;
+    font-weight: 800;
+    padding: 0px 10px 2px;
+}
+
+.progress-content {
+    position: relative;
+    margin: 20px auto;
+    font-size: 40px;
+    margin: 0;
+}
+
+.text-circle-center {
+    transform: translateY(280%) translateX(38%);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.progress {
+    height: 26px;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 40px;
+    overflow: visible;
+    position: relative;
+}
+
+.progress .progress-bar {
+    box-shadow: none;
+    border-radius: 0;
+    position: relative;
+    -webkit-animation: 2s linear 0s normal none infinite running progress-bar-stripes, animate-positive 1s;
+    animation: 2s linear 0s normal none infinite running progress-bar-stripes, animate-positive 1s;
+}
+
+.progress-bar .progress-value {
+    width: 150px;
+    height: 100%;
+    background: #000;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    position: absolute;
+    line-height: 27px;
+    top: 0;
+    left: 0;
+}
+
+.progress:after,
+.progress .progress-bar:after,
+.progress .progress-value:after {
+    content: "";
+    border-left: 13px solid rgba(0, 0, 0, 0.1);
+    border-top: 13px solid transparent;
+    border-bottom: 13px solid transparent;
+    position: absolute;
+    top: 0;
+    right: -13px;
+}
+
+.progress.red .progress-bar:after {
+    border-left-color: #dc3545;
+}
+
+.progress .progress-value:after {
+    border-left: 13px solid #000;
+}
+
+.progress.blue .progress-bar:after {
+    border-left-color: #17a2b8;
+}
+
+.progress.yellow .progress-bar:after {
+    border-left-color: #ffc107;
+}
+
+.progress.green .progress-bar:after {
+    border-left-color: #28a745;
+}
+
+@-webkit-keyframes animate-positive {
+    0% {
+        width: 0;
+    }
+}
+
+@keyframes animate-positive {
+    0% {
+        width: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .progress-bar .progress-value {
+        width: 80px;
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .progress-bar[_ngcontent-c3] .progress-value[_ngcontent-c3] {
+        width: 115px;
+        font-size: 13px;
+    }
+}

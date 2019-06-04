@@ -1,0 +1,38 @@
+<div class="scroll">
+    <div class="container colocacion_principal">
+        <h3>IDIOMAS</h3>
+        <table class="table table-responsive table-striped" *ngFor="let lenguas of idiomas">
+
+            <thead>
+                <tr>
+                    <th>{{lenguas.nombre}}</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{lenguas.valor}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Cursos y tutoriales</h3>
+        <table class="table table-responsive table-striped" *ngFor="let cursados of cursos">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Lugar</th>
+                    <th>Horas</th>
+                    <th>Profesor</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="fijar">{{cursados.nombre}}</td>
+                    <td class="fijar">{{cursados.lugar}}</td>
+                    <td class="fijar">{{cursados.horas}}</td>
+                    <td class="fijar">{{cursados.profesor}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>

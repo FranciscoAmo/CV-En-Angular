@@ -1,0 +1,23 @@
+<nav class="navbar navbar-inverse menu enlaces">
+    <div class="container-fluid">
+        <div class="navbar-header ">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav" RouterLinkActive="active">
+                <li><a class="tamañoTexto" [routerLink]="('Presentacion')">Presentacion</a></li>
+                <li><a class="tamañoTexto" [routerLink]="('datos-personales')">Datos Personales</a></li>
+                <li><a class="tamañoTexto" [routerLink]="('estudios')">Estudios</a></li>
+                <li><a class="tamañoTexto" [routerLink]="('experiencia')">Experiencia</a></li>
+                <li><a class="tamañoTexto" [routerLink]="('seleccion')">Conocimientos</a></li>
+                <li><a class="tamañoTexto" [routerLink]="('Aptitudes')">Aptitudes</a></li>
+
+                <li><a [routerLink]="('Contacto')"><span class="glyphicon glyphicon-user"></span> Contacto</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

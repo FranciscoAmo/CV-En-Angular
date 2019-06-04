@@ -1,0 +1,13 @@
+.menu {
+    background-color: rgb(128, 118, 118);
+    padding-left: 25%;
+    margin-right: -20px;
+}
+
+.enlaces {
+    color: black;
+}
+
+.tamañoTexto {
+    font-size: 0.9em;
+}

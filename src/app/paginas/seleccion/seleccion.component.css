@@ -1,0 +1,14 @@
+@media(min-width:760px) {
+    .colocacion_principal {
+        margin-left: 28%;
+        margin-right: 20%;
+        text-align: justify;
+    }
+}
+
+@media(max-width:760px) {
+    .colocacion_principal {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

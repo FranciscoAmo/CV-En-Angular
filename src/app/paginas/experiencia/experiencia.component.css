@@ -1,0 +1,17 @@
+@media(min-width:760px) {
+    .colocacion_principal {
+        margin-left: 28%;
+        padding-right: 20%;
+    }
+}
+
+@media(max-width:760px) {
+    .colocacion_principal {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+.scroll {
+    overflow-x: hidden;
+}
