@@ -28,7 +28,7 @@ export class SidebarComponent implements OnInit {
 
   ]
 
- private links:any[];
+ public links:any[];
 
   constructor( private dataService:DataServiceService) { }
 
