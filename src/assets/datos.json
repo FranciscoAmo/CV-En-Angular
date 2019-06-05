@@ -1,6 +1,5 @@
 {
-    "img_profile": "./assets/img/fernando.jpg",
-    "name": "Fernando Ureña Gómez",
+    "img_profile": "assets/foto.gif",
     "social_networks": [{
             "name": "Facebook",
             "icon": "facebook",
@@ -59,21 +58,21 @@
         }
     ],
     "estudios": [{
-            "imagen": "../../assets/foto-1.jpg",
+            "imagen": "assets/foto-1.jpg",
             "rango": "2003-2010",
             "lugar": "Politecnica de Burgos",
             "titulo": "Ingeniero Tecnico de Obras Publicas",
             "nota": "7"
         },
         {
-            "imagen": "../../assets/foto-2.jpg",
+            "imagen": "assets/foto-2.jpg",
             "rango": "2013–2015",
             "lugar": "IES Simon de Colonia, Burgos",
             "titulo": "Técnico Superior en sistemas de telecomunicacion e informaticos",
             "nota": "7.7"
         },
         {
-            "imagen": "../../assets/foto-3.png",
+            "imagen": "assets/foto-3.png",
             "rango": "2018-2020(en curso)",
             "lugar": "IES Camino de la Miranda, Palencia",
             "titulo": "Técnico Superior de Desarrollo de aplicaciones Multiplataforma (Online)",

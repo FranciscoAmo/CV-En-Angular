@@ -29,6 +29,7 @@ export class SidebarComponent implements OnInit {
   ]
 
  public links:any[];
+ public imagen_principal:string;
 
   constructor( private dataService:DataServiceService) { }
 
@@ -36,6 +37,11 @@ export class SidebarComponent implements OnInit {
     this.dataService.getData().subscribe( datos=>{
       this.links=datos['social_networks'];
     });
+
+    this.dataService.getData().subscribe(datos=>{
+      this.imagen_principal=datos['img_profile'];
+    })
   }
+    
 
 }
