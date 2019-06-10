@@ -141,7 +141,7 @@
     ],
     "Aptitudes": [{
             "nombre": "Compromiso con el trabajo",
-            "valor": "70"
+            "valor": "85"
         },
         {
             "nombre": "Compañerismo",
@@ -149,11 +149,11 @@
         },
         {
             "nombre": "Constancia",
-            "valor": "70"
+            "valor": "80"
         },
         {
             "nombre": "Iniciativa",
-            "valor": "60"
+            "valor": "80"
         },
         {
             "nombre": "Aprendizaje",
