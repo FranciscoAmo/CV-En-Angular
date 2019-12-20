@@ -137,18 +137,6 @@
         {
             "nombre": "Javascript",
             "valor": "30"
-        },
-        {
-            "nombre": "Hibernate",
-            "valor": "30"
-        },
-        {
-            "nombre": "ERP",
-            "valor": "30"
-        },
-        {
-            "nombre": "Android",
-            "valor": "30"
         }
     ],
     "Aptitudes": [{
