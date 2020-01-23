@@ -99,6 +99,9 @@
         }
     ],
     "habilidades": [{
+            "nombre": "Android",
+            "valor": "60"
+        },{
             "nombre": "Java SE",
             "valor": "60"
         },
