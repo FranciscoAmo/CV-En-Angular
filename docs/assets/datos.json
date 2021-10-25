@@ -73,10 +73,10 @@
         },
         {
             "imagen": "assets/foto-3.png",
-            "rango": "2018-2020(en curso)",
-            "lugar": "IES Camino de la Miranda, Palencia",
+            "rango": "2018-2021",
+            "lugar": "IES Camino de la Miranda, Palencia/IES Juan de Colonia, Burgos",
             "titulo": "Técnico Superior de Desarrollo de aplicaciones Multiplataforma (Online)",
-            "nota": "7"
+            "nota": "8.5"
         }
     ],
     "experiencias": [{
@@ -96,6 +96,18 @@
             "compania": "UBISA(Grupo Bekaert)",
             "posicion": "Peon Especialista",
             "descripcion": "Tecnico de produccion"
+        },
+        {
+            "rango": "Octubre 2020- febrero 2021",
+            "compania": "Geotelecom",
+            "posicion": "Programador",
+            "descripcion": "Practicas de Programación en Nubebytes para Geotelecom"
+        },
+        {
+            "rango": "Febrero 2021-Actual",
+            "compania": "Nubebytes",
+            "posicion": "Desarrollador ASP.NET CORE",
+            "descripcion": "Desarrollador de aplicaciones Web y mobile"
         }
     ],
     "habilidades": [{
