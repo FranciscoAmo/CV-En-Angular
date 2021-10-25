@@ -120,6 +120,12 @@
             "nombre": "Ionic",
             "valor": "50"
         },{
+            "nombre": "Javascript",
+            "valor": "70"
+        },{
+            "nombre": "SQLSERVER",
+            "valor": "60"
+        },{
             "nombre": "Android",
             "valor": "60"
         },{
@@ -137,38 +143,21 @@
         },{
             "nombre": "Angular",
             "valor": "70"
-        },
-        {
-            "nombre": "Xml-Xquery",
-            "valor": "80"
-        },
-        {
+        },{
             "nombre": "Html5",
             "valor": "70"
-        },
-        {
+        },{
             "nombre": "CSS",
-            "valor": "40"
-        },
-        {
-            "nombre": "AutoCad2D",
-            "valor": "80"
-        },
-        {
+            "valor": "50"
+        },{
             "nombre": "MySQL",
             "valor": "60"
-        },
-        {
-            "nombre": "Oracle",
+        },{
+            "nombre": "OracleDatabase",
             "valor": "60"
-        },
-        {
+        },{
             "nombre": "PLSQL",
             "valor": "50"
-        },
-        {
-            "nombre": "Javascript",
-            "valor": "30"
         }
     ],
     "Aptitudes": [{
