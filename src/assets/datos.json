@@ -92,10 +92,22 @@
             "descripcion": "Instalador ,configurador de routers y  puesta en marcha de servicio FTTH en hogares y empresas para la empresa Telefonica"
         },
         {
-            "rango": "Abril 2017-actual",
+            "rango": "Abril 2017-Octubre 2020",
             "compania": "UBISA(Grupo Bekaert)",
             "posicion": "Peon Especialista",
             "descripcion": "Tecnico de produccion"
+        },
+        {
+            "rango": "Octubre 2020- febrero 2021",
+            "compania": "Geotelecom",
+            "posicion": "Programador",
+            "descripcion": "Practicas de Programación en Nubebytes para Geotelecom"
+        },
+        {
+            "rango": "Febrero 2021-Actual",
+            "compania": "Nubebytes",
+            "posicion": "Desarrollador ASP.NET CORE",
+            "descripcion": "Desarrollador de aplicaciones Web y mobile"
         }
     ],
     "habilidades": [{
