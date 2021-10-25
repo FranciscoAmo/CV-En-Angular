@@ -111,6 +111,15 @@
         }
     ],
     "habilidades": [{
+            "nombre": "NET.CORE",
+            "valor": "70"
+        },{
+            "nombre": "EFrameWork",
+            "valor": "60"
+        },{
+            "nombre": "Ionic",
+            "valor": "50"
+        },{
             "nombre": "Android",
             "valor": "60"
         },{
@@ -127,7 +136,7 @@
             "valor": "40"
         },{
             "nombre": "Angular",
-            "valor": "40"
+            "valor": "70"
         },
         {
             "nombre": "Xml-Xquery",
