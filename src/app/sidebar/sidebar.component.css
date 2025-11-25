@@ -7,6 +7,7 @@
         height: 100%;
         position: fixed;
         z-index: 1;
+        background-image: url("https://imgs.search.brave.com/KbR-nnbqc_z_QPzUhjFlENfUQi2egM-359qQPUihQSc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90ZWNs/YWRvLWRlLW9yZGVu/YWRvci0yMDE0MDI5/LmpwZw");
     }
 }
 
@@ -16,6 +17,7 @@
         height: auto;
         margin-left: 40%;
     }
+    .sidebar{background-image: url("https://imgs.search.brave.com/KbR-nnbqc_z_QPzUhjFlENfUQi2egM-359qQPUihQSc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90ZWNs/YWRvLWRlLW9yZGVu/YWRvci0yMDE0MDI5/LmpwZw");}
     .sidebar h3,
     .sidebar h4 {
         font-size: 0.9rem;

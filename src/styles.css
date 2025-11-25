@@ -3,3 +3,19 @@
 .content-data {
     padding-left: 50%;
 }
+
+.background-image-pages {
+    background-image: url("https://imgs.search.brave.com/CilTyFc4wnA_Aw8k9yr2t9wloCY0xYhbBJzVU4yKHXQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/OTcxNDIzMi9lcy9m/b3RvL2NvcnJlZG9y/LXZhYyVDMyVBRG8t/ZGVzZW5mb2NhZG8t/ZW4tdW4taG9zcGl0/YWwuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUc5MEhEaHln/dWxYaTZwYS1yUi1E/RlMwSWpwaVlsalBn/M2lmRm55SUU5NUk9");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    /* CLAVE: Mantiene la imagen anclada mientras el contenido se desplaza */
+    background-attachment: fixed; 
+    
+    /* CAMBIO: Asegura que ocupe al menos una pantalla, pero permite que crezca */
+    min-height: 100vh; 
+    
+    /* El ancho de la ventana visible está bien */
+    width: 100vw;
+}

@@ -12,3 +12,13 @@
         margin-right: 10%;
     }
 }
+
+/* Cuando el link <a> tiene la clase "activo", cambiamos el estilo del botón que hay dentro */
+.activo button {
+    background-color: #0d6efd !important; /* Azul tipo Bootstrap Primary */
+    border-color: #0d6efd !important;
+    color: white;
+    font-weight: bold;
+    /* Opcional: una sombra para que destaque más */
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}

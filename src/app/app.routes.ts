@@ -10,16 +10,17 @@ import { SeleccionComponent } from './paginas/seleccion/seleccion.component';
 import { IdiomasYotrosComponent } from './paginas/idiomas-yotros/idiomas-yotros.component';
 
 const APP_ROUTES: Routes=[
-    { path: '', redirectTo: '/presentacion', pathMatch: 'full' },
+    {path: '', redirectTo: 'Presentacion', pathMatch: 'full' },
     {path:'Presentacion',component:PresentacionComponent},
     {path:'datos-personales',component:DatosPersonalesComponent},
     {path:'experiencia',component:ExperienciaComponent},    
     {path:'estudios',component:EstudiosComponent},
-    {path:'Contacto',component:ContactoComponent},
-    {path:'Aptitudes',component:AptitudesComponent},
+    {path:'contacto',component:ContactoComponent},
+    {path:'aptitudes',component:AptitudesComponent},
     {path:'habilidades',component:HabilidadesComponent},
     {path:'seleccion',component:SeleccionComponent, 
     children:[
+        {path:'', redirectTo: 'habilidades', pathMatch: 'full'},
         {path:'habilidades',component:HabilidadesComponent},
         {path:'idiomasyOtros',component:IdiomasYotrosComponent},
     ]},

@@ -16,3 +16,13 @@ img.pequeña {
     width: auto;
     height: 150px;
 }
+
+.card-fixed-height {
+    /* Establece una altura fija que sea suficiente para el contenido más grande */
+    height: 450px; 
+    
+}
+
+.card-style{
+    background-color: rgb(202, 218, 228);
+}
