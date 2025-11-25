@@ -116,11 +116,11 @@
         },
         {
             "nombre": "Angular",
-            "valor": "40"
+            "valor": "70"
         },
         {
             "nombre": "Xml-Xquery",
-            "valor": "80"
+            "valor": "10"
         },
         {
             "nombre": "Html5",
@@ -139,7 +139,7 @@
             "valor": "60"
         },
         {
-            "nombre": "Oracle",
+            "nombre": "SQL server",
             "valor": "60"
         },
         {
@@ -148,24 +148,24 @@
         },
         {
             "nombre": "Javascript",
-            "valor": "30"
+            "valor": "60"
         },
         {
             "nombre": "Hibernate",
             "valor": "30"
         },
         {
-            "nombre": "ERP",
+            "nombre": "NoSQL(MongoDB)",
             "valor": "30"
         },
         {
             "nombre": "Android",
             "valor": "30"
-        },
+        }
     ],
     "Aptitudes": [{
             "nombre": "Compromiso con el trabajo",
-            "valor": "85"
+            "valor": "90"
         },
         {
             "nombre": "Compañerismo",
