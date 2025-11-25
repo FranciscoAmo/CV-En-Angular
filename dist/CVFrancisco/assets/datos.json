@@ -1,0 +1,259 @@
+{
+    "img_profile": "assets/foto.gif",
+    "social_networks": [{
+            "name": "Facebook",
+            "icon": "facebook",
+            "link": "https://www.facebook.com/francisco.amoredondo.3"
+        },
+        {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/franciscoamoredondo85"
+        },
+        {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/FranciscoAmo"
+        }
+    ],
+    "datos_personales": [{
+            "column_display": "Nombre",
+            "column_value": "Francisco"
+        },
+        {
+            "column_display": "Apellidos",
+            "column_value": "Amo Redondo"
+        },
+        {
+            "column_display": "Telefono",
+            "column_value": "678318733"
+        },
+        {
+            "column_display": "Fecha nacimiento",
+            "column_value": "12/03/1985"
+        },
+        {
+            "column_display": "Email",
+            "column_value": "famoredondo@hotmail.com"
+        },
+        {
+            "column_display": "Estado civil",
+            "column_value": "Soltero"
+        },
+        {
+            "column_display": "Nacionalidad",
+            "column_value": "Española"
+        },
+        {
+            "column_display": "Carnet conducir",
+            "column_value": "Tipo B"
+        },
+        {
+            "column_display": "Vehiculo propio",
+            "column_value": "Si"
+        },
+        {
+            "column_display": "Disponibilidad para viajar",
+            "column_value": "Segun condiciones"
+        }
+    ],
+    "estudios": [{
+            "imagen": "assets/foto-1.jpg",
+            "rango": "2003-2010",
+            "lugar": "Politecnica de Burgos",
+            "titulo": "Ingeniero Tecnico de Obras Publicas",
+            "nota": "7"
+        },
+        {
+            "imagen": "assets/foto-2.jpg",
+            "rango": "2013–2015",
+            "lugar": "IES Simon de Colonia, Burgos",
+            "titulo": "Técnico Superior en sistemas de telecomunicacion e informaticos",
+            "nota": "7.7"
+        },
+        {
+            "imagen": "assets/foto-3.png",
+            "rango": "2018-2021",
+            "lugar": "IES Camino de la Miranda, Palencia/ IES Juan de Colonia, Burgos",
+            "titulo": "Técnico Superior de Desarrollo de aplicaciones Multiplataforma (Online)",
+            "nota": "8"
+        }
+    ],
+    "experiencias": [{
+            "rango": "Mayo 2004–Sept de 2015",
+            "compania": "Teczone Española",
+            "posicion": "Peon Especialista",
+            "descripcion": "Tecnico de Produccion"
+        },
+        {
+            "rango": "Enero 2015–Mayo 2016",
+            "compania": "Elecnor",
+            "posicion": "Tecnico instalador de servicios de internet",
+            "descripcion": "Instalador, configurador de routers y  puesta en marcha de servicio FTTH en hogares y empresas para la empresa Telefonica"
+        },
+        {
+            "rango": "Abril 2017-Octubre 2020",
+            "compania": "UBISA(Grupo Bekaert)",
+            "posicion": "Peon Especialista",
+            "descripcion": "Tecnico de produccion"
+        },
+        {
+            "rango": "Octubre 2020- febrero 2021",
+            "compania": "Geotelecom",
+            "posicion": "Programador",
+            "descripcion": "Practicas de programación en Nubebytes para Geotelecom"
+        },
+        {
+            "rango": "Febrero 2021-Actual",
+            "compania": "Nubebytes",
+            "posicion": "Desarrollador ASP.NET CORE",
+            "descripcion": "Desarrollador de aplicaciones Web y mobile"
+        }
+    ],
+    "habilidades": [{
+            "nombre": "Java SE",
+            "valor": "60"
+        },
+        {
+            "nombre": "Angular",
+            "valor": "70"
+        },
+        {
+            "nombre": "Xml-Xquery",
+            "valor": "10"
+        },
+        {
+            "nombre": "Html5",
+            "valor": "70"
+        },
+        {
+            "nombre": "CSS",
+            "valor": "40"
+        },
+        {
+            "nombre": "AutoCad2D",
+            "valor": "80"
+        },
+        {
+            "nombre": "MySQL",
+            "valor": "60"
+        },
+        {
+            "nombre": "SQL server",
+            "valor": "60"
+        },
+        {
+            "nombre": "PLSQL",
+            "valor": "50"
+        },
+        {
+            "nombre": "Javascript",
+            "valor": "60"
+        },
+        {
+            "nombre": "Hibernate",
+            "valor": "30"
+        },
+        {
+            "nombre": "NoSQL(MongoDB)",
+            "valor": "30"
+        },
+        {
+            "nombre": "Android",
+            "valor": "30"
+        }
+    ],
+    "Aptitudes": [{
+            "nombre": "Compromiso con el trabajo",
+            "valor": "90"
+        },
+        {
+            "nombre": "Compañerismo",
+            "valor": "90"
+        },
+        {
+            "nombre": "Constancia",
+            "valor": "80"
+        },
+        {
+            "nombre": "Iniciativa",
+            "valor": "80"
+        },
+        {
+            "nombre": "Aprendizaje",
+            "valor": "85"
+        }
+    ],
+    "idiomas": [{
+            "nombre": "Español",
+            "valor": "Nativo"
+        },
+        {
+            "nombre": "Ingles",
+            "valor": "Medio"
+        },
+        {
+            "nombre": "Frances",
+            "valor": "Basico"
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "JavaScript Profesional (con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "30h",
+            "profesor": "Jorge Barrachina"
+        },
+        {
+            "nombre": "Html5 y css(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "10h",
+            "profesor": "Juan Diego Perez"
+        },
+        {
+            "nombre": "Git(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "5h",
+            "profesor": "Juan Carlos Rubio"
+        },
+        {
+            "nombre": "Angular6(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "20h",
+            "profesor": "Samuel Comino"
+        },
+        {
+            "nombre": "NodeJs y Express(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "24h",
+            "profesor": "Jose Manuel Rosa"
+        },{
+            "nombre": "MongoDB(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "20h",
+            "profesor": "Pablo Campos"
+        },{
+            "nombre": "Scrum Tecnico(con certificado de superacion)",
+            "lugar": "OpenwebBinars",
+            "horas": "5h",
+            "profesor": "Abraham Requena"
+        },{
+            "nombre": "Angular: Convierte cualquier template HTML en una WebAPP",
+            "lugar": "Udemy",
+            "horas": "3,4h de video",
+            "profesor": "Fernando Herrera"
+        },
+        {
+            "nombre": "Angular y Java",
+            "lugar": "Youtube y Pagina Disco Duro de Roer",
+            "horas": "4h video",
+            "profesor": "DiscoDuro de Roer"
+        }
+    ],
+    "webUrl": "https://www.discoduroderoer.es",
+    "categoryId": 2060,
+    "itemsPerPageWorks": "6",
+    "showSkills": true,
+    "showContact": true,
+    "showWorks": true
+}
