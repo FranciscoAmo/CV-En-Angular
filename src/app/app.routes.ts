@@ -10,6 +10,7 @@ import { SeleccionComponent } from './paginas/seleccion/seleccion.component';
 import { IdiomasYotrosComponent } from './paginas/idiomas-yotros/idiomas-yotros.component';
 
 const APP_ROUTES: Routes=[
+    { path: '', redirectTo: '/presentacion', pathMatch: 'full' },
     {path:'Presentacion',component:PresentacionComponent},
     {path:'datos-personales',component:DatosPersonalesComponent},
     {path:'experiencia',component:ExperienciaComponent},    
