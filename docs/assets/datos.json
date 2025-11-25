@@ -25,7 +25,7 @@
             "column_value": "Amo Redondo"
         },
         {
-            "column_display": "telefono",
+            "column_display": "Telefono",
             "column_value": "678318733"
         },
         {
@@ -74,9 +74,9 @@
         {
             "imagen": "assets/foto-3.png",
             "rango": "2018-2021",
-            "lugar": "IES Camino de la Miranda, Palencia/IES Juan de Colonia, Burgos",
+            "lugar": "IES Camino de la Miranda, Palencia/ IES Juan de Colonia, Burgos",
             "titulo": "Técnico Superior de Desarrollo de aplicaciones Multiplataforma (Online)",
-            "nota": "8.5"
+            "nota": "8"
         }
     ],
     "experiencias": [{
@@ -89,10 +89,10 @@
             "rango": "Enero 2015–Mayo 2016",
             "compania": "Elecnor",
             "posicion": "Tecnico instalador de servicios de internet",
-            "descripcion": "Instalador ,configurador de routers y  puesta en marcha de servicio FTTH en hogares y empresas para la empresa Telefonica"
+            "descripcion": "Instalador, configurador de routers y  puesta en marcha de servicio FTTH en hogares y empresas para la empresa Telefonica"
         },
         {
-            "rango": "Abril 2017-actual",
+            "rango": "Abril 2017-Octubre 2020",
             "compania": "UBISA(Grupo Bekaert)",
             "posicion": "Peon Especialista",
             "descripcion": "Tecnico de produccion"
@@ -101,7 +101,7 @@
             "rango": "Octubre 2020- febrero 2021",
             "compania": "Geotelecom",
             "posicion": "Programador",
-            "descripcion": "Practicas de Programación en Nubebytes para Geotelecom"
+            "descripcion": "Practicas de programación en Nubebytes para Geotelecom"
         },
         {
             "rango": "Febrero 2021-Actual",
@@ -111,58 +111,61 @@
         }
     ],
     "habilidades": [{
-            "nombre": "NET.CORE",
-            "valor": "70"
-        },{
-            "nombre": "EFrameWork",
-            "valor": "60"
-        },{
-            "nombre": "Ionic",
-            "valor": "50"
-        },{
-            "nombre": "Javascript",
-            "valor": "70"
-        },{
-            "nombre": "SQLSERVER",
-            "valor": "60"
-        },{
-            "nombre": "Android",
-            "valor": "60"
-        },{
             "nombre": "Java SE",
             "valor": "60"
-        },{
-            "nombre": "MongoDB",
-            "valor": "30"
-        },{
-            "nombre": "NodeJs y Express",
-            "valor": "30"
-        },{
-            "nombre": "Git",
-            "valor": "40"
-        },{
+        },
+        {
             "nombre": "Angular",
             "valor": "70"
-        },{
+        },
+        {
+            "nombre": "Xml-Xquery",
+            "valor": "10"
+        },
+        {
             "nombre": "Html5",
             "valor": "70"
-        },{
+        },
+        {
             "nombre": "CSS",
-            "valor": "50"
-        },{
+            "valor": "40"
+        },
+        {
+            "nombre": "AutoCad2D",
+            "valor": "80"
+        },
+        {
             "nombre": "MySQL",
             "valor": "60"
-        },{
-            "nombre": "OracleDatabase",
+        },
+        {
+            "nombre": "SQL server",
             "valor": "60"
-        },{
+        },
+        {
             "nombre": "PLSQL",
             "valor": "50"
+        },
+        {
+            "nombre": "Javascript",
+            "valor": "60"
+        },
+        {
+            "nombre": "Hibernate",
+            "valor": "30"
+        },
+        {
+            "nombre": "NoSQL(MongoDB)",
+            "valor": "30"
+        },
+        {
+            "nombre": "Android",
+            "valor": "30"
         }
     ],
     "Aptitudes": [{
             "nombre": "Compromiso con el trabajo",
-            "valor": "80"
+            "valor": "90"
         },
         {
             "nombre": "Compañerismo",
